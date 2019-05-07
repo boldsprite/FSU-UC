@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<basic_config>
+  <Mysql>
+    <IP>10.45.152.19</IP>
+    <Port>3306</Port>
+    <user>root</user>
+    <password>zxm10</password>
+    <db>usmsc</db>
+  </Mysql>
+  <SC>
+    <SCIP>10.45.152.250</SCIP>
+    <SCPort>8081</SCPort>
+    <SCID>00001006000000000685</SCID>
+  </SC>              
+</basic_config>
